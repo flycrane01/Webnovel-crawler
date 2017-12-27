@@ -96,5 +96,5 @@ if __name__ == '__main__':
 
     # Done!
     print('Work complete!')
-    os.chdir('..')
+    os.chdir('..\..')
     os.startfile(booktitle)
